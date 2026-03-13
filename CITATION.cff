@@ -18,3 +18,11 @@ keywords:
   - xgboost
   - public-health
   - forecasting
+references:
+  - type: webpage
+    title: "DengAI: Predicting Disease Spread"
+    authors:
+      - name: "DrivenData"
+    url: "https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/"
+    year: 2026
+    publisher: "DrivenData LLC"

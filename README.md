@@ -185,3 +185,8 @@ Assimagbe Albert Raphael
 If you use this work, please cite it as:
 
 `DengAI — Predicting Disease Spread (2026). Machine learning pipeline for weekly dengue case forecasting using environmental features.`
+
+Source competition/data reference:
+
+- DrivenData. *DengAI: Predicting Disease Spread*.
+  [https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/](https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/)
