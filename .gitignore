@@ -20,6 +20,7 @@ Thumbs.db
 build/
 dist/
 *.log
+~$*.pptx
 
 # Python tooling
 .pytest_cache/
