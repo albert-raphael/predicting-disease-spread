@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "DengAI — Predicting Disease Spread"
+message: "If you use this project, please cite it using this metadata."
+type: software
+authors:
+  - family-names: "Assimagbe"
+    given-names: "Albert Raphael"
+repository-code: "https://github.com/albert-raphael/predicting-disease-spread"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-03-13"
+abstract: >-
+  A machine learning project for forecasting weekly dengue fever cases in
+  San Juan and Iquitos using environmental and climate features.
+keywords:
+  - dengue
+  - machine-learning
+  - xgboost
+  - public-health
+  - forecasting
