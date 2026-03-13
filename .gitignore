@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build / logs
+build/
+dist/
+*.log
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+
+# Data outputs that can be regenerated
+Data/submission.csv
+Documents/DengAI_Project_Presentation.pptx
